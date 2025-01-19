@@ -12,7 +12,7 @@ permalink: /
 Bot Discord nouvelle génération pour la gestion de codes d'authentification.
 {: .fs-6 .fw-300 }
 
-[Voir sur GitHub](https://github.com/USERNAME/verifymarxisme){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Voir sur GitHub](https://github.com/AnARCHIS12/verifymarxisme){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Documentation](#getting-started){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
