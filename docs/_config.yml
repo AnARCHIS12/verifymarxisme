@@ -2,7 +2,7 @@ remote_theme: just-the-docs/just-the-docs
 title: VerifyMarxisme Docs
 description: Documentation pour le bot Discord VerifyMarxisme
 baseurl: "/verifymarxisme"
-url: "https://USERNAME.github.io"
+url: "https://github.com/AnARCHIS12/verifymarxisme"
 
 # Personnalisation du thème
 color_scheme: dark
@@ -12,7 +12,7 @@ heading_anchors: true
 # Configuration de la navigation
 aux_links:
   "GitHub Repository":
-    - "//github.com/USERNAME/verifymarxisme"
+    - "https://github.com/AnARCHIS12/verifymarxismee"
 
 # Personnalisation des couleurs
 colors:
