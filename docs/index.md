@@ -70,13 +70,13 @@ Notre système assure :
 
 ## Support
 
-Besoin d'aide ? Rejoignez notre [serveur Discord](https://discord.gg/INVITE) !
+Besoin d'aide ? Rejoignez notre [serveur Discord](https://discord.gg/SZksvm3JFS) !
 
 ---
 
 ## Contribuer
 
-Nous accueillons toutes les contributions ! Consultez notre [guide de contribution](CONTRIBUTING.md).
+Nous accueillons toutes les contributions ! 
 
 ## Licence
 
