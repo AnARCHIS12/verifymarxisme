@@ -1,0 +1,21 @@
+{
+  "name": "revolution-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord pour l'unité des camarades ",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node deploy-commands.js",
+    "prestart": "node deploy-commands.js",
+    "start": "node index.js",
+    "dev": "nodemon --exec \"node deploy-commands.js && node index.js\"",
+    "deploy": "node deploy-commands.js",
+    "setup": "npm install && npm run deploy && npm start"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
