@@ -115,8 +115,6 @@ MIT
 
 <div align="center">
 
-[![Discord](https://img.shields.io/discord/YOUR_SERVER_ID?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite)
-[![Stars](https://img.shields.io/github/stars/your-username/your-repo?style=for-the-badge)](https://github.com/your-username/your-repo/stargazers)
 
 **Made with ❤️ by the verifyMarxist**
 
