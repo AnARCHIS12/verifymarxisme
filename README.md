@@ -105,7 +105,7 @@ npm test
 
 ## 🤝 Contribution
 
-Les contributions sont les bienvenues ! Voir [CONTRIBUTING.md](CONTRIBUTING.md)
+Les contributions sont les bienvenues ! 
 
 ## 📝 Licence
 
