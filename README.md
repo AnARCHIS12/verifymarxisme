@@ -23,7 +23,7 @@
 
 ```bash
 # Cloner le repository
-git clone [url-du-repo]
+git clone https://github.com/AnARCHIS12/verifymarxisme
 
 # Installer les dépendances
 npm install
